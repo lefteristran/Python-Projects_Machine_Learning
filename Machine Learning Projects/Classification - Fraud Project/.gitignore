@@ -1,0 +1,11 @@
+# Data (kept local only, never pushed to GitHub)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
